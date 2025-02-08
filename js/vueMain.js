@@ -13,7 +13,7 @@ const app = new Vue({
       isSaveStructure: false,
     },
     downloadedFiles: 0,
-    apiUrl: 'https://copier.saveweb2zip.com',
+    apiUrl: 'https://webcloner-seven.vercel.app/',
   },
   methods: {
     download(filename, url) {
